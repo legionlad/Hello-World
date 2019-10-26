@@ -5,3 +5,5 @@ eventManagement-laravel
 dDrink-Sampling-dry runs-estimations-place
 iSay-laravel-words in video-120 sec-
 coverProjectors-light projectors-
+These are ideas to be put on paper yet.
+Would you like to add something to it.
