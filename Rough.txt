@@ -5,4 +5,9 @@ eventManagement-laravel
 dDrink-Sampling-dry runs-estimations-place
 iSay-laravel-words in video-120 sec-
 coverProjectors-light projectors-
+ Ideas
+-- The ideas are on concept level.
+Yet to be brought to paper
+======
+master
 
